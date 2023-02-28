@@ -1,1 +1,2 @@
-"My firsy readme"
+"My first readme"
+"ALX school is so cool"
